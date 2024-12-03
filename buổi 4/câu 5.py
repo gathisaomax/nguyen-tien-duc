@@ -1,0 +1,5 @@
+print("nguyen tien duc")
+print("mssv 335752021610076")
+S = input("Nhập danh sách các từ: ").split()
+S.reverse()
+print("Dãy từ ngược lại:", " ".join(S))
